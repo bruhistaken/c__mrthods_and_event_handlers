@@ -1,0 +1,16 @@
+C:\Users\Junior\source\repos\c__mrthods_and_event_handlers\c__mrthods_and_event_handlers\bin\Debug\net6.0-windows\c__mrthods_and_event_handlers.exe
+C:\Users\Junior\source\repos\c__mrthods_and_event_handlers\c__mrthods_and_event_handlers\bin\Debug\net6.0-windows\c__mrthods_and_event_handlers.deps.json
+C:\Users\Junior\source\repos\c__mrthods_and_event_handlers\c__mrthods_and_event_handlers\bin\Debug\net6.0-windows\c__mrthods_and_event_handlers.runtimeconfig.json
+C:\Users\Junior\source\repos\c__mrthods_and_event_handlers\c__mrthods_and_event_handlers\bin\Debug\net6.0-windows\c__mrthods_and_event_handlers.dll
+C:\Users\Junior\source\repos\c__mrthods_and_event_handlers\c__mrthods_and_event_handlers\bin\Debug\net6.0-windows\c__mrthods_and_event_handlers.pdb
+C:\Users\Junior\source\repos\c__mrthods_and_event_handlers\c__mrthods_and_event_handlers\obj\Debug\net6.0-windows\c__mrthods_and_event_handlers.Form1.resources
+C:\Users\Junior\source\repos\c__mrthods_and_event_handlers\c__mrthods_and_event_handlers\obj\Debug\net6.0-windows\c__mrthods_and_event_handlers.csproj.GenerateResource.cache
+C:\Users\Junior\source\repos\c__mrthods_and_event_handlers\c__mrthods_and_event_handlers\obj\Debug\net6.0-windows\c__mrthods_and_event_handlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junior\source\repos\c__mrthods_and_event_handlers\c__mrthods_and_event_handlers\obj\Debug\net6.0-windows\c__mrthods_and_event_handlers.AssemblyInfoInputs.cache
+C:\Users\Junior\source\repos\c__mrthods_and_event_handlers\c__mrthods_and_event_handlers\obj\Debug\net6.0-windows\c__mrthods_and_event_handlers.AssemblyInfo.cs
+C:\Users\Junior\source\repos\c__mrthods_and_event_handlers\c__mrthods_and_event_handlers\obj\Debug\net6.0-windows\c__mrthods_and_event_handlers.csproj.CoreCompileInputs.cache
+C:\Users\Junior\source\repos\c__mrthods_and_event_handlers\c__mrthods_and_event_handlers\obj\Debug\net6.0-windows\c__mrthods_and_event_handlers.dll
+C:\Users\Junior\source\repos\c__mrthods_and_event_handlers\c__mrthods_and_event_handlers\obj\Debug\net6.0-windows\refint\c__mrthods_and_event_handlers.dll
+C:\Users\Junior\source\repos\c__mrthods_and_event_handlers\c__mrthods_and_event_handlers\obj\Debug\net6.0-windows\c__mrthods_and_event_handlers.pdb
+C:\Users\Junior\source\repos\c__mrthods_and_event_handlers\c__mrthods_and_event_handlers\obj\Debug\net6.0-windows\c__mrthods_and_event_handlers.genruntimeconfig.cache
+C:\Users\Junior\source\repos\c__mrthods_and_event_handlers\c__mrthods_and_event_handlers\obj\Debug\net6.0-windows\ref\c__mrthods_and_event_handlers.dll

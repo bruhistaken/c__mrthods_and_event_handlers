@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "c__mrthods_and_event_handlers/1.0.0": {
+        "runtime": {
+          "c__mrthods_and_event_handlers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "c__mrthods_and_event_handlers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
